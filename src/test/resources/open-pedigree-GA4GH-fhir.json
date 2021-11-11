@@ -1,0 +1,2805 @@
+{
+  "resourceType": "Bundle",
+  "identifier": {
+    "system": "http://purl.org/ga4gh/pedigree-fhir-ig",
+    "value": "urn:uuid:7784cf8c-b843-4bb2-b89e-8327213e2c68"
+  },
+  "type": "document",
+  "timestamp": "2021-10-12T09:30:18-10:00",
+  "entry": [
+    {
+      "link": [
+        {
+          "relation": "item",
+          "url": "urn:uuid:6ce67903-e6ff-43f4-9d00-cdb624415314"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:6a112c09-8270-4e72-96b8-0f65ea8331ae"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:232d8c46-e5a4-40b2-8bb2-00dc80214d95"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:7fa8ce56-b984-452b-97bc-72d3e730223a"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:f977dfbb-70d5-4f9b-b125-5c60af199d3c"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:185518a3-b5b1-4bc7-a53c-b6d8d69aec77"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:4d3cea83-0dbf-4639-8e6a-6406e54da630"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:15b8ae17-6e62-45cf-a37a-93a43fa876ae"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:b317d1eb-1f24-4b45-b5e0-90fbc7960fce"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:ebd73526-1597-47a4-a767-c462ef4e088c"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:af285243-5507-4da7-813e-5c4039891881"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:b0af7a6c-2b90-422d-ad00-d74df520c779"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:8f257e1d-7843-48ed-9b71-c218f2defc8d"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:89628290-8636-46de-be08-b720c891751e"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:6d10db14-1731-4506-87ec-9586b9ea7c58"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:e35487b4-d037-413b-ab3e-4b91e19c6671"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:e1d361d5-4bfb-4262-9f68-ab27a3ff4b48"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:b1af9e16-705b-4cf4-98e9-8308ceb15d3f"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:abfc1148-6949-4bc8-ad97-f191c4d4cb7c"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:dda54253-ab52-4a26-a360-738b75619533"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:51fae649-6630-47c6-9028-9a1d2b0d717c"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:787d20d2-6046-4e89-8c15-0b622bf7703b"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:0e73d72b-5398-4f28-9a28-616d3db9098d"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:af95f553-ee42-4f80-95e3-fd90e0b40db3"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:24ce048f-7548-4017-8f56-59e3eabd5482"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:f5ce3e9a-4b57-43ec-b75d-c78b73d6fccb"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:b428d2ff-5df1-40c8-ac5f-82cd7833102b"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:393e7855-7e3c-42d8-89b7-2bb266898efc"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:1edd66a3-da08-440b-af91-c3adde2df704"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:c3d7a8f9-8656-4d0e-bca9-579e7b5fd6ab"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:54134d8d-ebcc-4ec0-81f2-581c8e20f0d4"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:5d688c46-814e-4548-8f2e-5508a30ba5b1"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:79350c42-7bc6-4aa3-8d03-b1d2611fd966"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:5f6b039b-a630-4ba5-b82a-799e57dd87ff"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:ff382cf1-af1a-4543-8b7a-3bd3491abf8a"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:85b78243-2f8e-4d73-b46c-a89f6cee0f1e"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:054f9261-f259-4fd7-b582-e1af882f9311"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:0a3401fe-de1b-4cb4-a3ef-cebf2acd2f03"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:eaf30343-4691-4273-b8ee-d9f2133f71c4"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:7250186a-14e5-4fdb-a253-5a6720eb2541"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:231b18d3-dbf9-4c9c-8cc8-987cf50153fb"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:9231734e-57ba-41d9-a818-79650b586c1b"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:423eb8f5-7fc5-4d13-9fff-49f53fd2d0a7"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:f6eb2ab9-2fa3-4187-afb3-c34d10b9c369"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:a8461ca1-cfae-4ef6-bc01-fe3c48d89350"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:390dd897-2819-4069-9afe-7b040ce026d7"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:2af02760-a4d6-4572-863f-b8cf1bc239c3"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:040a00ca-3e2f-4c25-ad46-166194298422"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:be1f0064-1541-4ec3-a2ee-760ebb27c145"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:2048dcdc-08af-47fe-9de0-a96f4581e924"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:2e8dc45e-e317-4d33-a4e0-2406e130c28b"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:ab5bdec0-ab63-4ec7-afec-15542bd0ab7d"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:dbed7f54-3ef2-4c57-8cf3-c0e5bde6e5cf"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:6beeaf35-cdf3-42f3-8073-47080d4ba08f"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:7c73a22b-cc6c-40e4-9bbd-862e3b243962"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:4195ec58-92d5-4a00-aa2d-5fc73a2cd11a"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:a9001b61-b146-479c-83af-827a920bc16b"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:4e6c41bd-a2f5-4080-b90e-756ca992c93a"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:2e08cb2d-d33f-457e-a1a6-0f44cafdb76d"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:4a11c4e6-0112-4d14-b6e6-3f6da07f084f"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:707dc4f5-f33f-442b-aa65-4d423c16e334"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:a3c7f64c-c17e-44f0-b115-d6b4213e3c18"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:59a4de56-d391-4e2d-8a76-1e7f73ed9f25"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:3b57da06-de8e-4981-8632-94c227739d74"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:5809f3dc-2d06-4685-b565-310f9d995e5f"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:4b38964a-049e-43a3-8e8e-f5081df758c0"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:967017a4-0833-4737-89ad-e15bed1c0714"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:063ba8c2-967d-45f5-944d-649cdfc55d64"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:0428c6ba-cdcb-4a25-8734-4b9dfc83fe74"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:01351ac5-9616-4927-b1c3-c6c5ee66d619"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:02bb7348-178f-4df5-a7b0-3a8090dae56e"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:ee7a1ecd-c47f-4e35-8b18-cf48719fd367"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:a9e041cc-5f3d-4d90-b60f-26da3e5cb0ab"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:e239d90b-7513-407e-90ce-6dc643f6848d"
+        },
+        {
+          "relation": "item",
+          "url": "urn:uuid:446483e1-e7c1-442a-93e7-8e67c7a0271d"
+        }
+      ],
+      "fullUrl": "urn:uuid:c190f1e4-858d-4299-b3f8-97922af5912a",
+      "resource": {
+        "resourceType": "Composition",
+        "id": "urn:uuid:c190f1e4-858d-4299-b3f8-97922af5912a",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/Pedigree"
+          ]
+        },
+        "status": "final",
+        "type": {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "422432008"
+            }
+          ]
+        },
+        "subject": {
+          "type": "Patient",
+          "reference": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd"
+        },
+        "date": "2021-10-12T09:30:18-10:00",
+        "author": {
+          "type": "Organization",
+          "reference": "urn:uuid:6ce67903-e6ff-43f4-9d00-cdb624415314"
+        },
+        "title": "Pedigree",
+        "section": [
+          {
+            "title": "Proband",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://purl.org/ga4gh/pedigree-fhir-ig/CodeSystem/SectionType",
+                  "code": "proband"
+                }
+              ]
+            },
+            "entry": [
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd"
+              }
+            ]
+          },
+          {
+            "title": "Reason",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://purl.org/ga4gh/pedigree-fhir-ig/CodeSystem/SectionType",
+                  "code": "reason"
+                }
+              ]
+            },
+            "entry": [
+              {
+                "type": "Condition",
+                "reference": "urn:uuid:7c73a22b-cc6c-40e4-9bbd-862e3b243962"
+              },
+              {
+                "type": "Condition",
+                "reference": "urn:uuid:4195ec58-92d5-4a00-aa2d-5fc73a2cd11a"
+              }
+            ]
+          },
+          {
+            "title": "Individuals",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://purl.org/ga4gh/pedigree-fhir-ig/CodeSystem/SectionType",
+                  "code": "individuals"
+                }
+              ]
+            },
+            "entry": [
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:6a112c09-8270-4e72-96b8-0f65ea8331ae"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:232d8c46-e5a4-40b2-8bb2-00dc80214d95"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:7fa8ce56-b984-452b-97bc-72d3e730223a"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:f977dfbb-70d5-4f9b-b125-5c60af199d3c"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:185518a3-b5b1-4bc7-a53c-b6d8d69aec77"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:4d3cea83-0dbf-4639-8e6a-6406e54da630"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:15b8ae17-6e62-45cf-a37a-93a43fa876ae"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:b317d1eb-1f24-4b45-b5e0-90fbc7960fce"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:ebd73526-1597-47a4-a767-c462ef4e088c"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:af285243-5507-4da7-813e-5c4039891881"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:b0af7a6c-2b90-422d-ad00-d74df520c779"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:8f257e1d-7843-48ed-9b71-c218f2defc8d"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:89628290-8636-46de-be08-b720c891751e"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:6d10db14-1731-4506-87ec-9586b9ea7c58"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:e35487b4-d037-413b-ab3e-4b91e19c6671"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:e1d361d5-4bfb-4262-9f68-ab27a3ff4b48"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:b1af9e16-705b-4cf4-98e9-8308ceb15d3f"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:abfc1148-6949-4bc8-ad97-f191c4d4cb7c"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:dda54253-ab52-4a26-a360-738b75619533"
+              },
+              {
+                "type": "Patient",
+                "reference": "urn:uuid:51fae649-6630-47c6-9028-9a1d2b0d717c"
+              }
+            ]
+          },
+          {
+            "title": "Relationships",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://purl.org/ga4gh/pedigree-fhir-ig/CodeSystem/SectionType",
+                  "code": "relationships"
+                }
+              ]
+            },
+            "entry": [
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:787d20d2-6046-4e89-8c15-0b622bf7703b"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:0e73d72b-5398-4f28-9a28-616d3db9098d"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:af95f553-ee42-4f80-95e3-fd90e0b40db3"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:24ce048f-7548-4017-8f56-59e3eabd5482"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:f5ce3e9a-4b57-43ec-b75d-c78b73d6fccb"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:b428d2ff-5df1-40c8-ac5f-82cd7833102b"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:393e7855-7e3c-42d8-89b7-2bb266898efc"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:1edd66a3-da08-440b-af91-c3adde2df704"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:c3d7a8f9-8656-4d0e-bca9-579e7b5fd6ab"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:54134d8d-ebcc-4ec0-81f2-581c8e20f0d4"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:5d688c46-814e-4548-8f2e-5508a30ba5b1"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:79350c42-7bc6-4aa3-8d03-b1d2611fd966"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:5f6b039b-a630-4ba5-b82a-799e57dd87ff"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:ff382cf1-af1a-4543-8b7a-3bd3491abf8a"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:85b78243-2f8e-4d73-b46c-a89f6cee0f1e"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:054f9261-f259-4fd7-b582-e1af882f9311"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:0a3401fe-de1b-4cb4-a3ef-cebf2acd2f03"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:eaf30343-4691-4273-b8ee-d9f2133f71c4"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:7250186a-14e5-4fdb-a253-5a6720eb2541"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:231b18d3-dbf9-4c9c-8cc8-987cf50153fb"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:9231734e-57ba-41d9-a818-79650b586c1b"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:423eb8f5-7fc5-4d13-9fff-49f53fd2d0a7"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:f6eb2ab9-2fa3-4187-afb3-c34d10b9c369"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:a8461ca1-cfae-4ef6-bc01-fe3c48d89350"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:390dd897-2819-4069-9afe-7b040ce026d7"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:2af02760-a4d6-4572-863f-b8cf1bc239c3"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:040a00ca-3e2f-4c25-ad46-166194298422"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:be1f0064-1541-4ec3-a2ee-760ebb27c145"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:2048dcdc-08af-47fe-9de0-a96f4581e924"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:2e8dc45e-e317-4d33-a4e0-2406e130c28b"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:ab5bdec0-ab63-4ec7-afec-15542bd0ab7d"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:dbed7f54-3ef2-4c57-8cf3-c0e5bde6e5cf"
+              },
+              {
+                "type": "FamilyMemberHistory",
+                "reference": "urn:uuid:6beeaf35-cdf3-42f3-8073-47080d4ba08f"
+              }
+            ]
+          },
+          {
+            "title": "Other",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://purl.org/ga4gh/pedigree-fhir-ig/CodeSystem/SectionType",
+                  "code": "other"
+                }
+              ]
+            },
+            "entry": [
+              {
+                "type": "Condition",
+                "reference": "urn:uuid:7c73a22b-cc6c-40e4-9bbd-862e3b243962"
+              },
+              {
+                "type": "Condition",
+                "reference": "urn:uuid:4195ec58-92d5-4a00-aa2d-5fc73a2cd11a"
+              },
+              {
+                "type": "Condition",
+                "reference": "urn:uuid:a9001b61-b146-479c-83af-827a920bc16b"
+              },
+              {
+                "type": "Condition",
+                "reference": "urn:uuid:4e6c41bd-a2f5-4080-b90e-756ca992c93a"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:2e08cb2d-d33f-457e-a1a6-0f44cafdb76d"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:4a11c4e6-0112-4d14-b6e6-3f6da07f084f"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:707dc4f5-f33f-442b-aa65-4d423c16e334"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:a3c7f64c-c17e-44f0-b115-d6b4213e3c18"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:59a4de56-d391-4e2d-8a76-1e7f73ed9f25"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:3b57da06-de8e-4981-8632-94c227739d74"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:5809f3dc-2d06-4685-b565-310f9d995e5f"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:4b38964a-049e-43a3-8e8e-f5081df758c0"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:967017a4-0833-4737-89ad-e15bed1c0714"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:063ba8c2-967d-45f5-944d-649cdfc55d64"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:0428c6ba-cdcb-4a25-8734-4b9dfc83fe74"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:01351ac5-9616-4927-b1c3-c6c5ee66d619"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:02bb7348-178f-4df5-a7b0-3a8090dae56e"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:ee7a1ecd-c47f-4e35-8b18-cf48719fd367"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:a9e041cc-5f3d-4d90-b60f-26da3e5cb0ab"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:e239d90b-7513-407e-90ce-6dc643f6848d"
+              },
+              {
+                "type": "Observation",
+                "reference": "urn:uuid:446483e1-e7c1-442a-93e7-8e67c7a0271d"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:6ce67903-e6ff-43f4-9d00-cdb624415314",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "urn:uuid:6ce67903-e6ff-43f4-9d00-cdb624415314",
+        "name": "open-pedigree unknown author"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd",
+      "resource": {
+        "id": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "female",
+        "name": [
+          {
+            "given": [
+              "Alison"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:6a112c09-8270-4e72-96b8-0f65ea8331ae",
+      "resource": {
+        "id": "urn:uuid:6a112c09-8270-4e72-96b8-0f65ea8331ae",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "male",
+        "birthDate": "1974-09-21",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "family": "Cross",
+            "given": [
+              "Alex"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:232d8c46-e5a4-40b2-8bb2-00dc80214d95",
+      "resource": {
+        "id": "urn:uuid:232d8c46-e5a4-40b2-8bb2-00dc80214d95",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "male",
+        "birthDate": "1970-08-14",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "family": "Miller",
+            "given": [
+              "Jackson"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7fa8ce56-b984-452b-97bc-72d3e730223a",
+      "resource": {
+        "id": "urn:uuid:7fa8ce56-b984-452b-97bc-72d3e730223a",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "male",
+        "birthDate": "2004-07-21",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "given": [
+              "Lonley"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:f977dfbb-70d5-4f9b-b125-5c60af199d3c",
+      "resource": {
+        "id": "urn:uuid:f977dfbb-70d5-4f9b-b125-5c60af199d3c",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2010-07-04",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "given": [
+              "Libby"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:185518a3-b5b1-4bc7-a53c-b6d8d69aec77",
+      "resource": {
+        "id": "urn:uuid:185518a3-b5b1-4bc7-a53c-b6d8d69aec77",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "male",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "given": [
+              "fred"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:4d3cea83-0dbf-4639-8e6a-6406e54da630",
+      "resource": {
+        "id": "urn:uuid:4d3cea83-0dbf-4639-8e6a-6406e54da630",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "female",
+        "name": [
+          {
+            "given": [
+              "amber"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:15b8ae17-6e62-45cf-a37a-93a43fa876ae",
+      "resource": {
+        "id": "urn:uuid:15b8ae17-6e62-45cf-a37a-93a43fa876ae",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "male",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "given": [
+              "rory"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:b317d1eb-1f24-4b45-b5e0-90fbc7960fce",
+      "resource": {
+        "id": "urn:uuid:b317d1eb-1f24-4b45-b5e0-90fbc7960fce",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "female",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "given": [
+              "Ruby"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ebd73526-1597-47a4-a767-c462ef4e088c",
+      "resource": {
+        "id": "urn:uuid:ebd73526-1597-47a4-a767-c462ef4e088c",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "male",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "given": [
+              "Alfred"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:af285243-5507-4da7-813e-5c4039891881",
+      "resource": {
+        "id": "urn:uuid:af285243-5507-4da7-813e-5c4039891881",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "female",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "given": [
+              "Electra"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:b0af7a6c-2b90-422d-ad00-d74df520c779",
+      "resource": {
+        "id": "urn:uuid:b0af7a6c-2b90-422d-ad00-d74df520c779",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "male",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "given": [
+              "Jack"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:8f257e1d-7843-48ed-9b71-c218f2defc8d",
+      "resource": {
+        "id": "urn:uuid:8f257e1d-7843-48ed-9b71-c218f2defc8d",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "female",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "given": [
+              "Alice"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:89628290-8636-46de-be08-b720c891751e",
+      "resource": {
+        "id": "urn:uuid:89628290-8636-46de-be08-b720c891751e",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "female",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "given": [
+              "freddie"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:6d10db14-1731-4506-87ec-9586b9ea7c58",
+      "resource": {
+        "id": "urn:uuid:6d10db14-1731-4506-87ec-9586b9ea7c58",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "male",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "given": [
+              "Joshua"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e35487b4-d037-413b-ab3e-4b91e19c6671",
+      "resource": {
+        "id": "urn:uuid:e35487b4-d037-413b-ab3e-4b91e19c6671",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "male",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "given": [
+              "Aaron"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e1d361d5-4bfb-4262-9f68-ab27a3ff4b48",
+      "resource": {
+        "id": "urn:uuid:e1d361d5-4bfb-4262-9f68-ab27a3ff4b48",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "female",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "given": [
+              "Louisa"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:b1af9e16-705b-4cf4-98e9-8308ceb15d3f",
+      "resource": {
+        "id": "urn:uuid:b1af9e16-705b-4cf4-98e9-8308ceb15d3f",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2004-04-12",
+        "deceasedBoolean": true,
+        "name": [
+          {
+            "given": [
+              "abby"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:abfc1148-6949-4bc8-ad97-f191c4d4cb7c",
+      "resource": {
+        "id": "urn:uuid:abfc1148-6949-4bc8-ad97-f191c4d4cb7c",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "unknown"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:dda54253-ab52-4a26-a360-738b75619533",
+      "resource": {
+        "id": "urn:uuid:dda54253-ab52-4a26-a360-738b75619533",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "male"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:51fae649-6630-47c6-9028-9a1d2b0d717c",
+      "resource": {
+        "id": "urn:uuid:51fae649-6630-47c6-9028-9a1d2b0d717c",
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeIndividual"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/patient-unborn",
+            "valueBoolean": false
+          }
+        ],
+        "gender": "female"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:787d20d2-6046-4e89-8c15-0b622bf7703b",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:787d20d2-6046-4e89-8c15-0b622bf7703b",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:6a112c09-8270-4e72-96b8-0f65ea8331ae"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:026",
+              "display": "isPartner"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0e73d72b-5398-4f28-9a28-616d3db9098d",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:0e73d72b-5398-4f28-9a28-616d3db9098d",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:232d8c46-e5a4-40b2-8bb2-00dc80214d95"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:026",
+              "display": "isPartner"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:af95f553-ee42-4f80-95e3-fd90e0b40db3",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:af95f553-ee42-4f80-95e3-fd90e0b40db3",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:6d10db14-1731-4506-87ec-9586b9ea7c58"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:89628290-8636-46de-be08-b720c891751e"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:026",
+              "display": "isPartner"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:24ce048f-7548-4017-8f56-59e3eabd5482",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:24ce048f-7548-4017-8f56-59e3eabd5482",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:89628290-8636-46de-be08-b720c891751e"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:ebd73526-1597-47a4-a767-c462ef4e088c"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:027",
+              "display": "isBiologicalMother"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:f5ce3e9a-4b57-43ec-b75d-c78b73d6fccb",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:f5ce3e9a-4b57-43ec-b75d-c78b73d6fccb",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:6d10db14-1731-4506-87ec-9586b9ea7c58"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:ebd73526-1597-47a4-a767-c462ef4e088c"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:028",
+              "display": "isBiologicalFather"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:b428d2ff-5df1-40c8-ac5f-82cd7833102b",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:b428d2ff-5df1-40c8-ac5f-82cd7833102b",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:ebd73526-1597-47a4-a767-c462ef4e088c"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:b317d1eb-1f24-4b45-b5e0-90fbc7960fce"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:026",
+              "display": "isPartner"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:393e7855-7e3c-42d8-89b7-2bb266898efc",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:393e7855-7e3c-42d8-89b7-2bb266898efc",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:b0af7a6c-2b90-422d-ad00-d74df520c779"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:af285243-5507-4da7-813e-5c4039891881"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:026",
+              "display": "isPartner"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:1edd66a3-da08-440b-af91-c3adde2df704",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:1edd66a3-da08-440b-af91-c3adde2df704",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:af285243-5507-4da7-813e-5c4039891881"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:b317d1eb-1f24-4b45-b5e0-90fbc7960fce"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:027",
+              "display": "isBiologicalMother"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c3d7a8f9-8656-4d0e-bca9-579e7b5fd6ab",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:c3d7a8f9-8656-4d0e-bca9-579e7b5fd6ab",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:b0af7a6c-2b90-422d-ad00-d74df520c779"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:b317d1eb-1f24-4b45-b5e0-90fbc7960fce"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:028",
+              "display": "isBiologicalFather"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:54134d8d-ebcc-4ec0-81f2-581c8e20f0d4",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:54134d8d-ebcc-4ec0-81f2-581c8e20f0d4",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:dda54253-ab52-4a26-a360-738b75619533"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:b317d1eb-1f24-4b45-b5e0-90fbc7960fce"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:026",
+              "display": "isPartner"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:5d688c46-814e-4548-8f2e-5508a30ba5b1",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:5d688c46-814e-4548-8f2e-5508a30ba5b1",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:b317d1eb-1f24-4b45-b5e0-90fbc7960fce"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:027",
+              "display": "isBiologicalMother"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:79350c42-7bc6-4aa3-8d03-b1d2611fd966",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:79350c42-7bc6-4aa3-8d03-b1d2611fd966",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:ebd73526-1597-47a4-a767-c462ef4e088c"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:028",
+              "display": "isBiologicalFather"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:5f6b039b-a630-4ba5-b82a-799e57dd87ff",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:5f6b039b-a630-4ba5-b82a-799e57dd87ff",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:7fa8ce56-b984-452b-97bc-72d3e730223a"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:003",
+              "display": "isBiologicalParent"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ff382cf1-af1a-4543-8b7a-3bd3491abf8a",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:ff382cf1-af1a-4543-8b7a-3bd3491abf8a",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:6a112c09-8270-4e72-96b8-0f65ea8331ae"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:7fa8ce56-b984-452b-97bc-72d3e730223a"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:028",
+              "display": "isBiologicalFather"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:85b78243-2f8e-4d73-b46c-a89f6cee0f1e",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:85b78243-2f8e-4d73-b46c-a89f6cee0f1e",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:f977dfbb-70d5-4f9b-b125-5c60af199d3c"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:003",
+              "display": "isBiologicalParent"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:054f9261-f259-4fd7-b582-e1af882f9311",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:054f9261-f259-4fd7-b582-e1af882f9311",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:6a112c09-8270-4e72-96b8-0f65ea8331ae"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:f977dfbb-70d5-4f9b-b125-5c60af199d3c"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:028",
+              "display": "isBiologicalFather"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0a3401fe-de1b-4cb4-a3ef-cebf2acd2f03",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:0a3401fe-de1b-4cb4-a3ef-cebf2acd2f03",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:b317d1eb-1f24-4b45-b5e0-90fbc7960fce"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:185518a3-b5b1-4bc7-a53c-b6d8d69aec77"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:027",
+              "display": "isBiologicalMother"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:eaf30343-4691-4273-b8ee-d9f2133f71c4",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:eaf30343-4691-4273-b8ee-d9f2133f71c4",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:ebd73526-1597-47a4-a767-c462ef4e088c"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:185518a3-b5b1-4bc7-a53c-b6d8d69aec77"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:028",
+              "display": "isBiologicalFather"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7250186a-14e5-4fdb-a253-5a6720eb2541",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:7250186a-14e5-4fdb-a253-5a6720eb2541",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:51fae649-6630-47c6-9028-9a1d2b0d717c"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:185518a3-b5b1-4bc7-a53c-b6d8d69aec77"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:026",
+              "display": "isPartner"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:231b18d3-dbf9-4c9c-8cc8-987cf50153fb",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:231b18d3-dbf9-4c9c-8cc8-987cf50153fb",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:b317d1eb-1f24-4b45-b5e0-90fbc7960fce"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:4d3cea83-0dbf-4639-8e6a-6406e54da630"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:027",
+              "display": "isBiologicalMother"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9231734e-57ba-41d9-a818-79650b586c1b",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:9231734e-57ba-41d9-a818-79650b586c1b",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:dda54253-ab52-4a26-a360-738b75619533"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:4d3cea83-0dbf-4639-8e6a-6406e54da630"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:028",
+              "display": "isBiologicalFather"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:423eb8f5-7fc5-4d13-9fff-49f53fd2d0a7",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:423eb8f5-7fc5-4d13-9fff-49f53fd2d0a7",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:b317d1eb-1f24-4b45-b5e0-90fbc7960fce"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:15b8ae17-6e62-45cf-a37a-93a43fa876ae"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:027",
+              "display": "isBiologicalMother"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:f6eb2ab9-2fa3-4187-afb3-c34d10b9c369",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:f6eb2ab9-2fa3-4187-afb3-c34d10b9c369",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:dda54253-ab52-4a26-a360-738b75619533"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:15b8ae17-6e62-45cf-a37a-93a43fa876ae"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:028",
+              "display": "isBiologicalFather"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a8461ca1-cfae-4ef6-bc01-fe3c48d89350",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:a8461ca1-cfae-4ef6-bc01-fe3c48d89350",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:af285243-5507-4da7-813e-5c4039891881"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:8f257e1d-7843-48ed-9b71-c218f2defc8d"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:027",
+              "display": "isBiologicalMother"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:390dd897-2819-4069-9afe-7b040ce026d7",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:390dd897-2819-4069-9afe-7b040ce026d7",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:b0af7a6c-2b90-422d-ad00-d74df520c779"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:8f257e1d-7843-48ed-9b71-c218f2defc8d"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:028",
+              "display": "isBiologicalFather"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:2af02760-a4d6-4572-863f-b8cf1bc239c3",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:2af02760-a4d6-4572-863f-b8cf1bc239c3",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:89628290-8636-46de-be08-b720c891751e"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:e35487b4-d037-413b-ab3e-4b91e19c6671"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:027",
+              "display": "isBiologicalMother"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:040a00ca-3e2f-4c25-ad46-166194298422",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:040a00ca-3e2f-4c25-ad46-166194298422",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:6d10db14-1731-4506-87ec-9586b9ea7c58"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:e35487b4-d037-413b-ab3e-4b91e19c6671"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:028",
+              "display": "isBiologicalFather"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:be1f0064-1541-4ec3-a2ee-760ebb27c145",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:be1f0064-1541-4ec3-a2ee-760ebb27c145",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:89628290-8636-46de-be08-b720c891751e"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:e1d361d5-4bfb-4262-9f68-ab27a3ff4b48"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:027",
+              "display": "isBiologicalMother"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:2048dcdc-08af-47fe-9de0-a96f4581e924",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:2048dcdc-08af-47fe-9de0-a96f4581e924",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:6d10db14-1731-4506-87ec-9586b9ea7c58"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:e1d361d5-4bfb-4262-9f68-ab27a3ff4b48"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:028",
+              "display": "isBiologicalFather"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:2e8dc45e-e317-4d33-a4e0-2406e130c28b",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:2e8dc45e-e317-4d33-a4e0-2406e130c28b",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:185518a3-b5b1-4bc7-a53c-b6d8d69aec77"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:b1af9e16-705b-4cf4-98e9-8308ceb15d3f"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:028",
+              "display": "isBiologicalFather"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ab5bdec0-ab63-4ec7-afec-15542bd0ab7d",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:ab5bdec0-ab63-4ec7-afec-15542bd0ab7d",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:51fae649-6630-47c6-9028-9a1d2b0d717c"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:b1af9e16-705b-4cf4-98e9-8308ceb15d3f"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:027",
+              "display": "isBiologicalMother"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:dbed7f54-3ef2-4c57-8cf3-c0e5bde6e5cf",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:dbed7f54-3ef2-4c57-8cf3-c0e5bde6e5cf",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:abfc1148-6949-4bc8-ad97-f191c4d4cb7c"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:003",
+              "display": "isBiologicalParent"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:6beeaf35-cdf3-42f3-8073-47080d4ba08f",
+      "resource": {
+        "resourceType": "FamilyMemberHistory",
+        "id": "urn:uuid:6beeaf35-cdf3-42f3-8073-47080d4ba08f",
+        "meta": {
+          "profile": [
+            "http://purl.org/ga4gh/pedigree-fhir-ig/StructureDefinition/PedigreeRelationship"
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/familymemberhistory-patient-record",
+            "valueReference": {
+              "reference": "urn:uuid:232d8c46-e5a4-40b2-8bb2-00dc80214d95"
+            }
+          }
+        ],
+        "status": "completed",
+        "patient": {
+          "reference": "urn:uuid:abfc1148-6949-4bc8-ad97-f191c4d4cb7c"
+        },
+        "relationship": {
+          "coding": [
+            {
+              "system": "http://purl.org/ga4gh/kin.fhir",
+              "code": "KIN:028",
+              "display": "isBiologicalFather"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7c73a22b-cc6c-40e4-9bbd-862e3b243962",
+      "resource": {
+        "resourceType": "Condition",
+        "id": "urn:uuid:7c73a22b-cc6c-40e4-9bbd-862e3b243962",
+        "subject": {
+          "reference": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd"
+        },
+        "code": {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "233873004",
+              "display": "Hypertrophic cardiomyopathy"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:4195ec58-92d5-4a00-aa2d-5fc73a2cd11a",
+      "resource": {
+        "resourceType": "Condition",
+        "id": "urn:uuid:4195ec58-92d5-4a00-aa2d-5fc73a2cd11a",
+        "subject": {
+          "reference": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd"
+        },
+        "code": {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "195021004",
+              "display": "Primary dilated cardiomyopathy"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a9001b61-b146-479c-83af-827a920bc16b",
+      "resource": {
+        "resourceType": "Condition",
+        "id": "urn:uuid:a9001b61-b146-479c-83af-827a920bc16b",
+        "subject": {
+          "reference": "urn:uuid:ebd73526-1597-47a4-a767-c462ef4e088c"
+        },
+        "code": {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "233873004",
+              "display": "Hypertrophic cardiomyopathy"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:4e6c41bd-a2f5-4080-b90e-756ca992c93a",
+      "resource": {
+        "resourceType": "Condition",
+        "id": "urn:uuid:4e6c41bd-a2f5-4080-b90e-756ca992c93a",
+        "subject": {
+          "reference": "urn:uuid:b1af9e16-705b-4cf4-98e9-8308ceb15d3f"
+        },
+        "code": {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "233873004",
+              "display": "Hypertrophic cardiomyopathy"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:2e08cb2d-d33f-457e-a1a6-0f44cafdb76d",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:2e08cb2d-d33f-457e-a1a6-0f44cafdb76d",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:1dcc871b-8899-441e-b39b-03b96738e6dd"
+        },
+        "valueString": "Crabb"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:4a11c4e6-0112-4d14-b6e6-3f6da07f084f",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:4a11c4e6-0112-4d14-b6e6-3f6da07f084f",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:b317d1eb-1f24-4b45-b5e0-90fbc7960fce"
+        },
+        "valueString": "78"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:707dc4f5-f33f-442b-aa65-4d423c16e334",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:707dc4f5-f33f-442b-aa65-4d423c16e334",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:ebd73526-1597-47a4-a767-c462ef4e088c"
+        },
+        "valueString": "b. 1914\nHypertrophic cardiomyopathy dx 60\nd. 75 HCM"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a3c7f64c-c17e-44f0-b115-d6b4213e3c18",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:a3c7f64c-c17e-44f0-b115-d6b4213e3c18",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:89628290-8636-46de-be08-b720c891751e"
+        },
+        "valueString": "d. 82 old age"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:59a4de56-d391-4e2d-8a76-1e7f73ed9f25",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:59a4de56-d391-4e2d-8a76-1e7f73ed9f25",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:6d10db14-1731-4506-87ec-9586b9ea7c58"
+        },
+        "valueString": "d. 92 lung cancer"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:3b57da06-de8e-4981-8632-94c227739d74",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:3b57da06-de8e-4981-8632-94c227739d74",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:af285243-5507-4da7-813e-5c4039891881"
+        },
+        "valueString": "b. 1890\nd. 90 old age"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:5809f3dc-2d06-4685-b565-310f9d995e5f",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:5809f3dc-2d06-4685-b565-310f9d995e5f",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:b0af7a6c-2b90-422d-ad00-d74df520c779"
+        },
+        "valueString": "b. 1875\nd. 40 accident"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:4b38964a-049e-43a3-8e8e-f5081df758c0",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:4b38964a-049e-43a3-8e8e-f5081df758c0",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:dda54253-ab52-4a26-a360-738b75619533"
+        },
+        "valueString": "unknown"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:967017a4-0833-4737-89ad-e15bed1c0714",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:967017a4-0833-4737-89ad-e15bed1c0714",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:f977dfbb-70d5-4f9b-b125-5c60af199d3c"
+        },
+        "valueString": "d. 8 drowning"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:063ba8c2-967d-45f5-944d-649cdfc55d64",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:063ba8c2-967d-45f5-944d-649cdfc55d64",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:185518a3-b5b1-4bc7-a53c-b6d8d69aec77"
+        },
+        "valueString": "41"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0428c6ba-cdcb-4a25-8734-4b9dfc83fe74",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:0428c6ba-cdcb-4a25-8734-4b9dfc83fe74",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:51fae649-6630-47c6-9028-9a1d2b0d717c"
+        },
+        "valueString": "unknown"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:01351ac5-9616-4927-b1c3-c6c5ee66d619",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:01351ac5-9616-4927-b1c3-c6c5ee66d619",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:4d3cea83-0dbf-4639-8e6a-6406e54da630"
+        },
+        "valueString": "39"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:02bb7348-178f-4df5-a7b0-3a8090dae56e",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:02bb7348-178f-4df5-a7b0-3a8090dae56e",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:15b8ae17-6e62-45cf-a37a-93a43fa876ae"
+        },
+        "valueString": "37"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ee7a1ecd-c47f-4e35-8b18-cf48719fd367",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:ee7a1ecd-c47f-4e35-8b18-cf48719fd367",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:8f257e1d-7843-48ed-9b71-c218f2defc8d"
+        },
+        "valueString": "72"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a9e041cc-5f3d-4d90-b60f-26da3e5cb0ab",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:a9e041cc-5f3d-4d90-b60f-26da3e5cb0ab",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:e35487b4-d037-413b-ab3e-4b91e19c6671"
+        },
+        "valueString": "b. 1972\nd. 50 lung cancer"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e239d90b-7513-407e-90ce-6dc643f6848d",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:e239d90b-7513-407e-90ce-6dc643f6848d",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:e1d361d5-4bfb-4262-9f68-ab27a3ff4b48"
+        },
+        "valueString": "b. 1968"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:446483e1-e7c1-442a-93e7-8e67c7a0271d",
+      "resource": {
+        "resourceType": "Observation",
+        "id": "urn:uuid:446483e1-e7c1-442a-93e7-8e67c7a0271d",
+        "status": "preliminary",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "48767-8",
+              "display": "Annotation comment [Interpretation] Narrative"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:b1af9e16-705b-4cf4-98e9-8308ceb15d3f"
+        },
+        "valueString": "Hypertrophic cardiomyopathy dx 5"
+      }
+    }
+  ]
+}
